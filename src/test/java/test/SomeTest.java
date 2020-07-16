@@ -36,14 +36,6 @@ public class SomeTest extends Base {
         run();
     }
 
-    @Test public void test3() {
-        run();
-    }
-
-    @Test public void test4() {
-        run();
-    }
-
     @Test public void test5() {
         run();
     }
